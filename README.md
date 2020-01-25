@@ -1,2 +1,3 @@
-# ValaxyTech-hello-world
-maven
+# maven-project
+
+Simple Maven Project
